@@ -1,4 +1,4 @@
-## A rule of the QuantumultX
+## A rule of the conf
 
 
 
