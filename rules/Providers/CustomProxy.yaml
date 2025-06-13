@@ -1,5 +1,5 @@
  payload:
-  - DOMAIN-SUFFIX,renzhe.cloud
-  - DOMAIN-SUFFIX,renzhecloud.com
-  - DOMAIN-SUFFIX,renzhesubconverter.com
-  - DOMAIN-SUFFIX,wd-gold.com
+  - "+.renzhe.cloud"
+  - "+.renzhecloud.com"
+  - "+.renzhesubconverter.com"
+  - "+.wd-gold.com"

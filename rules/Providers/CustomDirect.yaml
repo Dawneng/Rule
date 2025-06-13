@@ -1,6 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,aihao.cc
-  - DOMAIN-SUFFIX,aihao.hk
-  - DOMAIN-SUFFIX,pcbeta.com
-  - DOMAIN-SUFFIX,getui.com
-  - DOMAIN-SUFFIX,unpkg.com
+  - "+.aihao.cc"
+  - "+.aihao.hk"
+  - "+.pcbeta.com"
+  - "+.getui.com"
+  - "+.unpkg.com"
+  - "+.scorecardresearch.com"
