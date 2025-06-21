@@ -13,3 +13,4 @@
 - [@Orz-3](https://github.com/Orz-3)
 - [@Sabrina](https://github.com/solikethis)
 - [@毒奶](https://github.com/limbopro)
+- [@Aethersailor](https://github.com/Aethersailor/Custom_OpenClash_Rules)
