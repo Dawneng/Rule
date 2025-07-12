@@ -122,8 +122,12 @@ DOMAIN-SUFFIX,game.maj-soul.com
 # 以下域名已提交 PR
 
 # PR 至 felixonmars/dnsmasq-china-list
+# 海翔登录
+DOMAIN-SUFFIX,seaflysoft.com
 
 # PR 至 v2fly/domain-list-community
+# 鸿蒙出境易
+DOMAIN-SUFFIX,chujingapp.com
 
 # ---------------------------------------
 # =======================================
