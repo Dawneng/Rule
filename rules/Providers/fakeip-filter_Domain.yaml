@@ -142,3 +142,8 @@ payload:
     - "ps.res.netease.com"
     - "+.pub.3gppnetwork.org"
     - "+.miwifi.com"
+    - "+.push.apple.com"
+    - "+.gcloudcs.com"
+    - "+.gcloudsdk.com"
+    - "+.oray.com"
+    - "+.orayimg.com"
