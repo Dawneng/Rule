@@ -2,8 +2,12 @@ name: Auto generate mrs rules
 
 on:
   push:
-    paths:
-      - 'rules/*.list'
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  repository_dispatch:
+
   workflow_dispatch:
 
 permissions:
@@ -100,3 +104,9 @@ jobs:
           else
             echo "No new commits to push."
           fi
+
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 0
+          keep_minimum_runs: 3
