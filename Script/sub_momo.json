@@ -66,10 +66,7 @@
       "type": "selector",
       "tag": "🚀 节点选择",
       "interrupt_exist_connections": true,
-      "outbounds": [
-        "♻️ 自动选择",
-        "🎯 全球直连"
-      ]
+      "outbounds": []
     },
     {
       "type": "urltest",
