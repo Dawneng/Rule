@@ -12,6 +12,7 @@ payload:
   - "+.ypojie.com"
   - "*.akadns.net"
   - "+.aiuwe.me"
+  - "+.wd-purple.com"
   - '*m-team*'
   - '*quickconnect*'
   - '*synology*'
