@@ -1,3 +1,5 @@
+ # Merge https://github.com/Aethersailor/Custom_OpenClash_Rules/blob/main/rule/Custom_Proxy.list
+
  payload:
   - "+.renzhe.cloud"
   - "+.renzhecloud.com"
@@ -5,3 +7,19 @@
   - "+.wd-gold.com"
   - "+.wd-gold.net"
   - "+.auivnode.eu.cc"
+  - '+.7pzzv.us'
+  - '+.arduino.cc'
+  - '+.clientservices.googleapis.com'
+  - '+.cloudsync-prod.s3.us-east-1.amazonaws.com'
+  - '+.dmhy.org'
+  - '+.googleapis.cn'
+  - '+.hoyolab.com'
+  - '+.hoyoverse.com'
+  - '+.ip.sb'
+  - '+.ipify.org'
+  - '+.mtalk.google.com'
+  - '+.onedrive.live.com'
+  - '+.platformio.org'
+  - '+.services.googleapis.cn'
+  - '+.stun.playstation.net'
+  - '+.xn--ngstr-lra8j.com'
