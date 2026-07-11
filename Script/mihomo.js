@@ -383,6 +383,7 @@ function main(config) {
   newConfig['tun'] = {
     enable: true,
     stack: 'mixed',
+    device: 'mihomo',
     'dns-hijack': ['any:53', 'tcp://any:53'],
     'auto-route': false,
     'auto-redirect': false,
